@@ -3,10 +3,13 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-
+import Theme from './Theme'
+import {ThemeProvider} from '@material-ui/core/styles'
 ReactDOM.render(
   <React.StrictMode>
+    <ThemeProvider theme={Theme}>
     <App />
+    </ThemeProvider>
   </React.StrictMode>,
   document.getElementById('root')
 );
