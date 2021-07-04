@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/appstart-website/static/css/main.916da9ef.chunk.css",
+    "main.js": "/appstart-website/static/js/main.272cb645.chunk.js",
+    "main.js.map": "/appstart-website/static/js/main.272cb645.chunk.js.map",
+    "runtime-main.js": "/appstart-website/static/js/runtime-main.7cf2747c.js",
+    "runtime-main.js.map": "/appstart-website/static/js/runtime-main.7cf2747c.js.map",
+    "static/js/2.95627fac.chunk.js": "/appstart-website/static/js/2.95627fac.chunk.js",
+    "static/js/2.95627fac.chunk.js.map": "/appstart-website/static/js/2.95627fac.chunk.js.map",
+    "static/js/3.a3ea69c1.chunk.js": "/appstart-website/static/js/3.a3ea69c1.chunk.js",
+    "static/js/3.a3ea69c1.chunk.js.map": "/appstart-website/static/js/3.a3ea69c1.chunk.js.map",
+    "index.html": "/appstart-website/index.html",
+    "static/css/main.916da9ef.chunk.css.map": "/appstart-website/static/css/main.916da9ef.chunk.css.map",
+    "static/js/2.95627fac.chunk.js.LICENSE.txt": "/appstart-website/static/js/2.95627fac.chunk.js.LICENSE.txt",
+    "static/media/Logo.ba5bd334.png": "/appstart-website/static/media/Logo.ba5bd334.png",
+    "static/media/Home.css": "/appstart-website/static/media/background.9d6f12b9.svg",
+    "static/media/dribble.1638abbd.svg": "/appstart-website/static/media/dribble.1638abbd.svg",
+    "static/media/instagram.787b1447.svg": "/appstart-website/static/media/instagram.787b1447.svg",
+    "static/media/linkedin.fd9e4298.svg": "/appstart-website/static/media/linkedin.fd9e4298.svg",
+    "static/media/mansitting.9d162430.svg": "/appstart-website/static/media/mansitting.9d162430.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7cf2747c.js",
+    "static/js/2.95627fac.chunk.js",
+    "static/css/main.916da9ef.chunk.css",
+    "static/js/main.272cb645.chunk.js"
+  ]
+}
